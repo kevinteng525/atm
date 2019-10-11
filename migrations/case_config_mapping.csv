@@ -1,0 +1,67 @@
+﻿N/A,N/A 1,0,0,0,image_default
+N/A,2,0,0,0,image_default_core_2
+N/A,3,0,0,0,image_default_core_3
+N/A,4,0,0,0,image_default_core_4
+N/A,5,0,0,0,image_default_core_5
+N/A,6,0,0,0,image_default_core_6
+N/A,7,0,0,0,image_default_core_7
+N/A,8,0,0,0,image_default_core_8
+N/A,9,0,0,0,image_default_core_9
+N/A,10,0,0,0,image_default_core_10
+N/A,11,0,0,0,image_default_core_11
+N/A,12,0,0,0,image_default_core_12
+N/A,13,0,0,0,image_default_core_13
+N/A,14,0,0,0,image_default_core_14
+N/A,15,0,0,0,image_default_core_15
+N/A,N/A 1,0,1,0,image_comp
+N/A,15,1,1,0,image_lmcopy_comp
+N/A,2,1,0,0,image_lmcopy_core_2
+N/A,3,1,0,0,image_lmcopy_core_3
+N/A,4,1,0,0,image_lmcopy_core_4
+N/A,5,1,0,0,image_lmcopy_core_5
+N/A,6,1,0,0,image_lmcopy_core_6
+N/A,7,1,0,0,image_lmcopy_core_7
+N/A,8,1,0,0,image_lmcopy_core_8
+N/A,9,1,0,0,image_lmcopy_core_9
+N/A,10,1,0,0,image_lmcopy_core_10
+N/A,11,1,0,0,image_lmcopy_core_11
+N/A,12,1,0,0,image_lmcopy_core_12
+N/A,13,1,0,0,image_lmcopy_core_13
+N/A,14,1,0,0,image_lmcopy_core_14
+N/A,15,1,0,0,image_lmcopy_core_15
+N/A,N/A 1,0,0,1,image_vops
+N/A,N/A 1,0,0,0 1,image_default image_vops
+matrix,N/A 1,0,0,0,matrix_default
+matrix,2,0,0,0,matrix_default_core_2
+matrix,3,0,0,0,matrix_default_core_3
+matrix,4,0,0,0,matrix_default_core_4
+matrix,5,0,0,0,matrix_default_core_5
+matrix,6,0,0,0,matrix_default_core_6
+matrix,7,0,0,0,matrix_default_core_7
+matrix,8,0,0,0,matrix_default_core_8
+matrix,9,0,0,0,matrix_default_core_9
+matrix,10,0,0,0,matrix_default_core_10
+matrix,11,0,0,0,matrix_default_core_11
+matrix,12,0,0,0,matrix_default_core_12
+matrix,13,0,0,0,matrix_default_core_13
+matrix,14,0,0,0,matrix_default_core_14
+matrix,15,0,0,0,matrix_default_core_15
+matrix,N/A 1,0,1,0,matrix_comp
+matrix,15,1,1,0,matrix_lmcopy_comp
+matrix,2,1,0,0,matrix_lmcopy_core_2
+matrix,3,1,0,0,matrix_lmcopy_core_3
+matrix,4,1,0,0,matrix_lmcopy_core_4
+matrix,5,1,0,0,matrix_lmcopy_core_5
+matrix,6,1,0,0,matrix_lmcopy_core_6
+matrix,7,1,0,0,matrix_lmcopy_core_7
+matrix,8,1,0,0,matrix_lmcopy_core_8
+matrix,9,1,0,0,matrix_lmcopy_core_9
+matrix,10,1,0,0,matrix_lmcopy_core_10
+matrix,11,1,0,0,matrix_lmcopy_core_11
+matrix,12,1,0,0,matrix_lmcopy_core_12
+matrix,13,1,0,0,matrix_lmcopy_core_13
+matrix,14,1,0,0,matrix_lmcopy_core_14
+matrix,15,1,0,0,matrix_lmcopy_core_15
+matrix,N/A 1,0,0,1,matrix_vops
+matrix,N/A 1,0,0,0 1,matrix_default matrix_vops
+matrix,N/A 1,0,0,15,matrix_weight_split

@@ -1,0 +1,11 @@
+INSERT INTO `ATM_ConfigDetail` VALUES (1, 'cmodel_default', NULL, 'dump all = 0\r\nskip leakyrelu fuse = 1\r\nroi full precision = 1\r\nactive core mask = 1', 1);
+INSERT INTO `ATM_ConfigDetail` VALUES (2, 'cmodel_dump', NULL, 'dump all = 1\r\nskip leakyrelu fuse = 1\r\nroi full precision = 1\r\nactive core mask = 1', 1);
+INSERT INTO `ATM_ConfigDetail` VALUES (3, 'cmodel_fuse', NULL, 'dump all = 0\r\nskip leakyrelu fuse = 0\r\nroi full precision = 1\r\nactive core mask = 1', 1);
+INSERT INTO `ATM_ConfigDetail` VALUES (4, 'compil_default', NULL, 'FORCE_USE_BF16_SCALE = 1\r\nSKIP_CONV_OUT_SCALE_FUSE = 1\r\nSKIP_LEAKYRELU_FUSE = 1', 2);
+INSERT INTO `ATM_ConfigDetail` VALUES (5, 'compil_fuse', NULL, 'FORCE_USE_BF16_SCALE = 1\r\nSKIP_CONV_OUT_SCALE_FUSE = 0\r\nSKIP_LEAKYRELU_FUSE = 0', 2);
+INSERT INTO `ATM_ConfigDetail` VALUES (6, 'driver_default', NULL, 'NPU_DEVICE_INDEX = 0', 3);
+INSERT INTO `ATM_ConfigDetail` VALUES (7, 'driver_attr', NULL, 'NPU_DEVICE_INDEX = 0\r\nNPU_TENSOR_MAX_BATCH_SIZE =  3000\r\nNPU_TENSOR_SPLIT_COUNT    =  2\r\nNPU_TENSOR_CPY_THRESHOLD  =  10', 3);
+INSERT INTO `ATM_ConfigDetail` VALUES (9, 'infer_matrix', NULL, 'FORCE_MATRIX_LAYOUT=1', 4);
+INSERT INTO `ATM_ConfigDetail` VALUES (10, 'kaleido_tf', NULL, 'CURRENT_BACKEND=tensorflow', 6);
+INSERT INTO `ATM_ConfigDetail` VALUES (11, 'kaleido_mxnet', NULL, 'CURRENT_BACKEND=mxnet', 6);
+INSERT INTO `ATM_ConfigDetail` VALUES (13, 'perf_resnet50', NULL, 'IMAGE_WEIGHT_SPLIT_THRESHOLD = 256\r\nMATRIX_WEIGHT_SPLIT_THRESHOLD = 256\r\nWEIGHT_WORKLOAD_SPLIT_THRESHOLD = 85', 5);

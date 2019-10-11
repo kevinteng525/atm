@@ -1,0 +1,2 @@
+INSERT INTO `auth_user` VALUES (1, 'pbkdf2_sha256$150000$wpUpDiUeXLoU$V26g+IBKpQ+EfBhK3MTACxZQZT2xpJpqOwpZLFmnorM=', '2019-07-31 09:24:02.383290', 1, 'kevin', '', '', '', 1, 1, '2019-07-31 09:18:56.950460');
+INSERT INTO `auth_user` VALUES (2, 'pbkdf2_sha256$150000$Te2b7XDBcFnH$vM35Fw5ivjFLq4utAL/7ypoMbwRl9T1JVxw1qWXYZHQ=', '2019-08-01 07:41:09.258016', 0, 'yanming', '', '', '', 1, 1, '2019-08-01 07:40:41.000000');

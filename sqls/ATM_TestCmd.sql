@@ -1,0 +1,2 @@
+INSERT INTO `ATM_TestCmd` VALUES (1, 'matmul_basic_vector29', 'kaleido -x w512c1800 -m int16 -f matmul:c1800k903__bias:_actleaky:relu_out:qint16', 2, NULL, 0, 1, 1, 1);
+INSERT INTO `ATM_TestCmd` VALUES (2, 'vop_3op_int8_33', 'kaleido -s 30x30x64 -m int8 -f pool:max-f1s1p0_out:qint8,vop:mul_act:sigmoid_out:float16[merge:min_out:float16]conv:f1s1p0k64_bias:_out:quint16,vop:add_act:rsqrt_out:float16 -Q standard', 2, NULL, 0, 2, 1, 1);

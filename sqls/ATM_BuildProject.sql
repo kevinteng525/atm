@@ -1,0 +1,14 @@
+INSERT INTO `ATM_BuildProject` VALUES (1, 'cmodel', NULL);
+INSERT INTO `ATM_BuildProject` VALUES (2, 'umd', NULL);
+INSERT INTO `ATM_BuildProject` VALUES (3, 'infer', NULL);
+INSERT INTO `ATM_BuildProject` VALUES (4, 'ratelrt', NULL);
+INSERT INTO `ATM_BuildProject` VALUES (5, 'drm', NULL);
+INSERT INTO `ATM_BuildProject` VALUES (6, 'ratelnn', NULL);
+INSERT INTO `ATM_BuildProject` VALUES (7, 'tensorflow', NULL);
+INSERT INTO `ATM_BuildProject` VALUES (8, 'mxnet', NULL);
+INSERT INTO `ATM_BuildProject` VALUES (9, 'caffe', NULL);
+INSERT INTO `ATM_BuildProject` VALUES (10, 'kaleido', NULL);
+INSERT INTO `ATM_BuildProject` VALUES (11, 'agraph', NULL);
+INSERT INTO `ATM_BuildProject` VALUES (12, 'quantize', NULL);
+INSERT INTO `ATM_BuildProject` VALUES (13, 'deepspeech', NULL);
+INSERT INTO `ATM_BuildProject` VALUES (14, 'npulp', NULL);

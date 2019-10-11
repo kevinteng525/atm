@@ -1,0 +1,1 @@
+INSERT INTO `ATM_OSType` VALUES (1, 'ubuntu', NULL);

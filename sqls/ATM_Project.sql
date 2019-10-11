@@ -1,0 +1,2 @@
+INSERT INTO `ATM_Project` VALUES (1, 'v1', NULL, 0);
+INSERT INTO `ATM_Project` VALUES (2, 'v2', NULL, 0);
